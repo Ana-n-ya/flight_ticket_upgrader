@@ -1,0 +1,9 @@
+id,first_name,last_name,pnr,fare_class,travel_date,pax,ticketing_date,email,mobile_phone,booked_cabin,discount_code,created_at,updated_at,error_messages,error_messages
+16,Ananya,Rai,MNA388,B,2022-09-11,1,2022-08-10,ananya@example.com,555912765,Businesses,,2023-05-01 12:15:39 UTC,2023-05-01 12:15:39 UTC,"[""Invalid Phone Number"", ""Invalid Booked Cabin""]"
+17,Ann,RR,MNA380,B,2022-09-11,1,2022-08-10,ananya@example.com,555912765,Businesses,,2023-05-01 12:18:39 UTC,2023-05-01 12:18:39 UTC,"[""Invalid Phone Number"", ""Invalid Booked Cabin""]"
+20,Ananya,Thapliyal,MNA309,B,2022-09-11,1,2022-08-10,ananya,5559012765,Business,,2023-05-01 12:25:32 UTC,2023-05-01 12:25:32 UTC,"[""Invalid Email""]"
+22,Ananya,Thapliyal,MNA38809,B,2022-09-11,1,2022-08-10,ananya,5559012765,Business,,2023-05-01 12:31:13 UTC,2023-05-01 12:31:13 UTC,"[""Invalid Email"", ""Invalid PNR Number""]"
+24,Ananya,Thapliyal,ANAN77809,B,2022-09-11,1,2022-08-10,ananya,5559012765,Business,,2023-05-01 12:35:34 UTC,2023-05-01 12:35:34 UTC,"[""Invalid Email"", ""Invalid PNR Number""]"
+25,Ananya,Thapliyal,ANAN809,B,2022-09-11,1,2022-08-10,ananya,5559012765,Business,,2023-05-01 12:39:28 UTC,2023-05-01 12:39:28 UTC,"[""nvalid Email""]"
+26,Ananya,Thapliyal,ANAN7878809,B,2022-09-11,1,2022-08-10,ananya,5559012765,Business,OFFER_20,2023-05-03 12:40:25 UTC,2023-05-03 12:40:25 UTC,"[""Invalid Email"", ""Invalid PNR Number""]"
+27,Ananya,Thapliyal,LLSS123,B,2022-09-11,1,2022-08-10,ananya,5559012765,Business,OFFER_20,2023-05-03 13:51:17 UTC,2023-05-03 13:51:17 UTC,"[""Invalid Email"", ""Invalid PNR Number""]"

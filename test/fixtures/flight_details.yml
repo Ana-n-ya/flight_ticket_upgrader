@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  pnr: MyString
+  fare_class: MyString
+  travel_date: 2023-04-30
+  pax: 1
+  ticketing_date: 2023-04-30
+  email: MyString
+  mobile_phone: MyString
+  booked_cabin: MyString
+  discount_code: MyString
+  RAILS_ENV=development: MyString
+
+two:
+  first_name: MyString
+  last_name: MyString
+  pnr: MyString
+  fare_class: MyString
+  travel_date: 2023-04-30
+  pax: 1
+  ticketing_date: 2023-04-30
+  email: MyString
+  mobile_phone: MyString
+  booked_cabin: MyString
+  discount_code: MyString
+  RAILS_ENV=development: MyString
